@@ -1,0 +1,14 @@
+{
+    "position": 2,
+    "label": "Numpy",
+    "collapsible": true,
+    "collapsed": true,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "Numpy overview"
+    },
+    "customProps": {
+      "description": "Numpy all the important function explain for the data science."
+    }
+  }
