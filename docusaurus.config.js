@@ -85,6 +85,7 @@ const config = {
     ({
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
+
       navbar: {
         title: "DataScienceWith",
         logo: {
@@ -156,6 +157,15 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+  headTags: [
+    {
+      tagName: "meta",
+      attributes: {
+        name: "google-site-verification",
+        content: "6ASIdCtqMfBkl6xkrELRFmwELyc1PATKGxWLJJia-J4",
+      },
+    },
+  ],
 };
 
 export default config;
